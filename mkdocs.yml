@@ -1,0 +1,15 @@
+site_name: My Docs
+theme:
+  name: material
+  icon:
+    logo: material/cat
+plugins:
+  - social:
+      debug: false
+      debug_color: yellow
+      cards_layout: custom
+      cards_layout_options:
+        background_color: "#0FF1CE8F"
+        background_image: layouts/stairs.jpg
+        color: "#DE9151"
+        font_family: Caveat
